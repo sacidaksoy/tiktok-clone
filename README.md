@@ -1,6 +1,6 @@
 # Tiktok Clone
 
-![Tiktok Clone](https://media.giphy.com/media/jBzTNF5KnBvWRyNVRD/giphy.gif)
+![Tiktok Clone](https://media.giphy.com/media/jBzTNF5KnBvWRyNVRD/giphy-downsized.gif)
 
 [Firebase Live Version of the App](https://tiktok-clone-dd22c.web.app/)
 
